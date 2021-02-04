@@ -11,5 +11,6 @@
 # Repurposed Assets
 | Features      | Sources    |
 | :------------- | :----------: |
-|  Snow sounds | "Walking in Snow" by Percy Duke posted on [FreeSound] (https://freesound.org/people/Percy%20Duke/sounds/420559/) | |
-|  Background music | find an online free sound that sounds Christmassy; also look for jingle bell sounds that I *may* be able to record on my own   |
+|  Snow sounds | "Walking in Snow.wav" by Percy Duke posted on [FreeSound](https://freesound.org/people/Percy%20Duke/sounds/420559/) on 2 March 2018 | |
+|  Bell sounds in the background for Santa's Workshop | "Christmas Angel Chimes.wav" by ChrilleElGringo posted on [FreeSound](https://freesound.org/people/ChrilleElGringo/sounds/333522/) on 20 Jan 2016 | |
+|  Background noise for Santa's Workshop | "outlet department store checkout line cash area busy crowd merchandise being banged around IKEA Montreal, Canada.flac" by kyles posted  on [FreeSound](https://freesound.org/people/kyles/sounds/455818/) on 4 Jan 2019  | |
