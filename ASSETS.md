@@ -19,3 +19,7 @@
 |  Sirens | "Bombers.wav" by paubg_pou posted on 14 Jan 2011 on [FreeSound](https://freesound.org/people/paubg_pou/sounds/111901/)  with Creative Commons Attribution License. No changes were made to the audio. | |
 |  Phone Dialing | "Phone Dialing" by HarryPeeks posted on 17 March 2016 on [FreeSound](https://freesound.org/people/HarryPeeks/sounds/339950/)  with Creative Commons 0 License dedicated to the public domain. | |
 |  Fire Alarm | "Fire Alarm.wav" by nigelcoop posted on 12 Dec 2013 on [FreeSound](https://freesound.org/people/nigelcoop/sounds/210513/)  with Creative Commons 0 License dedicated to the public domain. | |
+|  Cheering | "hooray.wav" by Vesperia94 posted on 28 Sept 2017 on [FreeSound](https://freesound.org/people/Vesperia94/sounds/403057/)  with Creative Commons 0 License dedicated to the public domain. | |
+|  Scared Elves | "Crowd Screaming, A.wav" by [InspectorJ](https://www.jshaw.co.uk/) posted on 15 Mar 2018 on [FreeSound](https://freesound.org/people/InspectorJ/sounds/421852/)  with Creative Commons Attribution License. The audio was edited to a higher pitch. | |
+|  Workshop Door Opening | "Kocking door and open door" by rivernile7 posted on 21 Sept 2014 on [FreeSound](https://freesound.org/people/rivernile7/sounds/249573/)  with Creative Commons Attribution License. No changes were made to the audio. | |
+|  Santa's Door | "Door Open Close" by amholma posted on 26 April 2016 on [FreeSound](https://freesound.org/people/amholma/sounds/344360/)  with Creative Commons 0 License dedicated to the public domain. | |
