@@ -1,1 +1,1 @@
-This is a page to practice cloning!
+This is a project for my Composing Digital Media course! With this first project (and my first time using Audacity), I have created a soundscape of the Santa's Workshop in North Pole called "Another Day in the Workshop." It is a work in progress, and it has been a great learning experience!
