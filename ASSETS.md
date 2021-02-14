@@ -6,11 +6,13 @@
 |  Elves | My voice edited to be a higher pitch  |
 |  Microphone | Voice Memos on iPhone   |
 |  Audio editing program | Audacity with FFmpeg  |
-|  wind sounds & cookie eating | self-recorded on iPhone Voice Memos |
+|  wind sounds, fire starting, and cookie eating | self-recorded on iPhone Voice Memos |
 
 # Repurposed Assets
 | Features      | Sources    |
 | :------------- | :----------: |
+|  Intro Background Track | "We Wish You A Merry Christmas" by rhodesmas posted on 18 September 2015 on [FreeSound](https://freesound.org/people/rhodesmas/sounds/322275/)  with Creative Commons Attribution License. No changes were made to the audio. | |
+|  Hammering Sounds | "Blacksmith hammering, people talking in the background" by Emmaproductions posted on 11 November 2014 on [FreeSound](https://freesound.org/people/Emmaproductions/sounds/254370/)  with Creative Commons 0 License dedicated to the public domain. | |
 |  Snow sounds | "Walking in Snow.wav" by Percy Duke posted on 2 March 2018 on [FreeSound](https://freesound.org/people/Percy%20Duke/sounds/420559/) with a Creative Commons Attribution License. No changes were made to the audio. | |
 |  Bell sounds in the background for Santa's Workshop | "Christmas Bells.wav" by zoefitzgerald posted on 19 Dec 2016 on [FreeSound](https://freesound.org/people/ChrilleElGringo/sounds/333522/) with Creative Commons Attribution Noncommercial License. No changes were made to the audio. | |
 |  Background ambience noise for Santa's Workshop | "outlet department store checkout line cash area busy crowd merchandise being banged around IKEA Montreal, Canada.flac" by kyles posted on 4 Jan 2019 on [FreeSound](https://freesound.org/people/kyles/sounds/455818/)  with Creative Commons 0 License dedicated to the public domain. | |
